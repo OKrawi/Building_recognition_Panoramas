@@ -1,5 +1,7 @@
 # Building Recognition Panoramas
 
+This project accesses Google Maps API to get Street View panorma IDs and coordinates in a specific area, then downloads them in a compiled JSON file. 
+
 ## Setup
 
 Get a Google Maps API key from Google.
