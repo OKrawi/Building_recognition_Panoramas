@@ -8,7 +8,7 @@ Download the code to your PC.
 
 Get a Google Maps API key from Google.
 
-Create a ".env" file and add the following:
+Create a `.env` file and add the following:
 
 ```
 VITE_GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_GOES_HERE
