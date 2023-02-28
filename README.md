@@ -4,6 +4,8 @@ This project accesses Google Maps API to get Street View panorma IDs and coordin
 
 ## Setup
 
+Download the code to your PC.
+
 Get a Google Maps API key from Google.
 
 Create a ".env" file and add the following:
